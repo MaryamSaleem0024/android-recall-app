@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "142051673586",
+    "project_id": "whisperback-9e82c",
+    "storage_bucket": "whisperback-9e82c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142051673586:android:c410939b62246f87da576b",
+        "android_client_info": {
+          "package_name": "com.example.selftalker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142051673586-a8qllqil2ngp6v17jbp74uidum5tcpv5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.selftalker",
+            "certificate_hash": "4db817e3bb36b9dadeb529d37c2c2c99095dc0ca"
+          }
+        },
+        {
+          "client_id": "142051673586-3m63ovhkm98fmiubglig0eoiuaj3ati3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD44ay02ri3pGQs_hlto2LQpI-f1qpaLGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142051673586-3m63ovhkm98fmiubglig0eoiuaj3ati3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
